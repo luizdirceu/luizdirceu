@@ -37,13 +37,13 @@ Here are some ideas to get you started:
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: juninholdmarques@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="./email.png">
     </a>
     <a href = "https://www.linkedin.com/in/luiz-dirceu-marques-243825242/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="./linkedin.png">
     </a>
     <a href = "https://www.instagram.com/juuninhomarques/">
-      <img width="25" src="./png-transparent-instagram-icon-logo-desktop-computer-icons-instagram-miscellaneous-text-bing.png">
+      <img width="25" src="./insta.png">
     </a>
 </div>
   
