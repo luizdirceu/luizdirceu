@@ -43,7 +43,7 @@ Here are some ideas to get you started:
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/juuninhomarques/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="./png-transparent-instagram-icon-logo-desktop-computer-icons-instagram-miscellaneous-text-bing.png">
     </a>
 </div>
   
